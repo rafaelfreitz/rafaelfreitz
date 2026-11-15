@@ -15,7 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelfreitz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Troféus GitHub" />
+  <img src="https://img.shields.io/github/followers/rafaelfreitz?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=0F172A" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/rafaelfreitz?affiliations=OWNER%2CCOLLABORATOR&label=Estrelas&style=for-the-badge&logo=github&logoColor=white&color=38BDF8&labelColor=0F172A" alt="Estrelas" />
+  <img src="https://img.shields.io/badge/Fatec-DSM-38BDF8?style=for-the-badge&logo=academia&logoColor=white&labelColor=0F172A" alt="Fatec DSM" />
+  <img src="https://img.shields.io/badge/Cisco-Certified-38BDF8?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0F172A" alt="Cisco Certified" />
 </p>
 
 <p align="center">

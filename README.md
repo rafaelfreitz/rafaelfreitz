@@ -10,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=rafaelfreitz&color=38BDF8&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visitas" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rafaelfreitz/rafaelfreitz/output/snake-dark.svg" alt="Animação de cobra" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" alt="Sequência de contribuições" />

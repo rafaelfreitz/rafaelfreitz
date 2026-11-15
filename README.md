@@ -22,10 +22,6 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" alt="Citação Dev" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&font=Montserrat&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" width="460" alt="Sequência de contribuições" />
 </p>
 

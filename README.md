@@ -15,7 +15,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **MAMMO.AI** | Projeto de Inteligência Artificial utilizando Deep Learning para auxílio na detecção do câncer de mama em imagens médicas, incluindo identidade visual e prototipagem. | IA / Deep Learning • Figma • UI/UX |
+| **MAMMO.IA** | Projeto de Inteligência Artificial utilizando Deep Learning para auxílio na detecção do câncer de mama em imagens médicas, incluindo identidade visual e prototipagem. | IA / Deep Learning • Figma • UI/UX |
 | **Wayzen Solutions (PI - Fatec)** | Desenvolvimento de aplicações web, modelagem de banco de dados e criação de identidade visual corporativa para o Projeto Integrador. | HTML5 • CSS3 • Banco de Dados • Figma |
 
 ---

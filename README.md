@@ -22,11 +22,15 @@
 </p>
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" alt="Citação Dev" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&font=Montserrat&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" width="460" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:0284C7,50:38BDF8,75:818CF8,100:0F172A&height=3&animation=twinkling" width="100%" alt="Divisor animado" />
 </p>
 
 <h2 align="left">🚀 Projetos em destaque</h2>
@@ -37,7 +41,7 @@
 | **Wayzen Solutions (PI - Fatec)** | Desenvolvimento de aplicações web, modelagem de banco de dados e criação de identidade visual corporativa para o Projeto Integrador. | `HTML5` • `CSS3` • `Banco de Dados` • `Figma` |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:0284C7,50:38BDF8,75:818CF8,100:0F172A&height=3&animation=twinkling" width="100%" alt="Divisor animado" />
 </p>
 
 <h2 align="left">🛠️ Tecnologias e ferramentas</h2>
@@ -60,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:0284C7,50:38BDF8,75:818CF8,100:0F172A&height=3&animation=twinkling" width="100%" alt="Divisor animado" />
 </p>
 
 <h2 align="left">🏅 Certificações</h2>
@@ -78,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:0284C7,50:38BDF8,75:818CF8,100:0F172A&height=3&animation=twinkling" width="100%" alt="Divisor animado" />
 </p>
 
 <h2 align="left">🎯 Em que estou focado</h2>
@@ -91,7 +95,7 @@
 - 🤖 Aplicações práticas de Inteligência Artificial, Redes e ferramentas Cloud
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,25:0284C7,50:38BDF8,75:818CF8,100:0F172A&height=3&animation=twinkling" width="100%" alt="Divisor animado" />
 </p>
 
 <h2 align="left">💬 Vamos conversar?</h2>

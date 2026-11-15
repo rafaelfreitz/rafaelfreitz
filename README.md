@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=250&section=header&text=Rafael%20Freitas&fontSize=62&fontColor=F3F4F4&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Rafael Freitas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=250&section=header&text=Rafael%20Freitas&fontSize=62&fontColor=F3F4F4&fontFamily=sans-serif&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Rafael Freitas" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2800&pause=1200&color=F3F4F4&center=true&vCenter=true&width=520&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;UI%2FUX+%26+Identidade+Visual;Software+Multiplataforma" alt="Typing Montserrat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=3400&pause=1400&color=F3F4F4&center=true&vCenter=true&width=520&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;UI%2FUX+%26+Identidade+Visual;Software+Multiplataforma" alt="Typing Montserrat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=%3E+IA+%26+Ci%C3%AAncia+de+Dados;%3E+Web%2C+C%2B%2B+%26+Banco+de+Dados;%3E+Redes+%26+Cloud+Computing" alt="Typing JetBrains Mono" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3600&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=%3E+IA+%26+Ci%C3%AAncia+de+Dados;%3E+Web%2C+C%2B%2B+%26+Banco+de+Dados;%3E+Redes+%26+Cloud+Computing" alt="Typing JetBrains Mono" />
 </p>
 
 <p align="center">
@@ -15,14 +15,16 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Animação Setup Dev" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="520" alt="Citação Dev" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&font=Montserrat&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" width="460" alt="Sequência de contribuições" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+</p>
 
 <h2 align="left">🚀 Projetos em destaque</h2>
 
@@ -31,7 +33,9 @@
 | **MAMMO.IA** | Projeto de Inteligência Artificial utilizando Deep Learning para auxílio na detecção do câncer de mama em imagens médicas, incluindo identidade visual e prototipagem. | `IA / Deep Learning` • `Figma` • `UI/UX` |
 | **Wayzen Solutions (PI - Fatec)** | Desenvolvimento de aplicações web, modelagem de banco de dados e criação de identidade visual corporativa para o Projeto Integrador. | `HTML5` • `CSS3` • `Banco de Dados` • `Figma` |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+</p>
 
 <h2 align="left">🛠️ Tecnologias e ferramentas</h2>
 
@@ -52,7 +56,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+</p>
 
 <h2 align="left">🏅 Certificações</h2>
 
@@ -68,18 +74,22 @@
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+</p>
 
 <h2 align="left">🎯 Em que estou focado</h2>
 
--  Graduação em **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec
--  Lógica de programação, algoritmos e estruturas de dados (C++ e Portugol)
--  Desenvolvimento Web responsivo e interfaces modernas (HTML5, CSS3 e JavaScript)
--  Modelagem de banco de dados relacional e arquitetura de sistemas
--  Design de interfaces (UI/UX), prototipagem e identidade visual no Figma
--  Aplicações práticas de Inteligência Artificial, Redes e ferramentas Cloud
+- 🎓 Graduação em **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec
+- 🧠 Lógica de programação, algoritmos e estruturas de dados (C++ e Portugol)
+- 🌐 Desenvolvimento Web responsivo e interfaces modernas (HTML5, CSS3 e JavaScript)
+- 🗄️ Modelagem de banco de dados relacional e arquitetura de sistemas
+- 🎨 Design de interfaces (UI/UX), prototipagem e identidade visual no Figma
+- 🤖 Aplicações práticas de Inteligência Artificial, Redes e ferramentas Cloud
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=35" width="100%" alt="Divisor onda" />
+</p>
 
 <h2 align="left">💬 Vamos conversar?</h2>
 

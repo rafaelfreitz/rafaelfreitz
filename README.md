@@ -1,23 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=180&section=header&text=Rafael%20Freitas&fontSize=42&fontColor=F3F4F4&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=58&descSize=17" alt="Banner Rafael Freitas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=250&section=header&text=Rafael%20Freitas&fontSize=62&fontColor=F3F4F4&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20Multiplataforma&descAlignY=62&descSize=22" width="100%" alt="Banner Rafael Freitas" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!;Desenvolvimento+Multiplataforma;UI%2FUX+Design+%26+Identidade+Visual;Intelig%C3%AAncia+Artificial+%26+Dados;Redes+de+Computadores+%26+Cloud;Transformando+ideias+em+c%C3%B3digo;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2800&pause=1200&color=F3F4F4&center=true&vCenter=true&width=520&height=45&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;UI%2FUX+%26+Identidade+Visual;Software+Multiplataforma" alt="Typing Montserrat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=%3E+IA+%26+Ci%C3%AAncia+de+Dados;%3E+Web%2C+C%2B%2B+%26+Banco+de+Dados;%3E+Redes+%26+Cloud+Computing" alt="Typing JetBrains Mono" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelfreitz&color=38BDF8&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visitas" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" alt="Sequência de contribuições" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Animação Setup Dev" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelfreitz&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F3F4F4&area=true&hide_border=true" alt="Gráfico de atividades" />
+  <img src="https://streak-stats.demolab.com/?user=rafaelfreitz&theme=transparent&hide_border=true&font=Montserrat&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=F3F4F4&sideLabels=F3F4F4&dates=94A3B8" width="460" alt="Sequência de contribuições" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -34,7 +36,7 @@
 <h2 align="left">🛠️ Tecnologias e ferramentas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,mysql,figma,vscode,git,github" height="55" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,mysql,figma,vscode,git,github&perline=4" height="125" alt="Tecnologias e ferramentas" />
 </div>
 
 <br>
@@ -56,7 +58,7 @@
 
 <div align="left">
   <a href="https://www.credly.com/" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="110" alt="Cisco Networking Basics Badge" />
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="115" alt="Cisco Networking Basics Badge" />
   </a>
 </div>
 
@@ -70,12 +72,12 @@
 
 <h2 align="left">🎯 Em que estou focado</h2>
 
-- 🎓 Graduação em **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec
-- 🧠 Lógica de programação, algoritmos e estruturas de dados (C++ e Portugol)
-- 🌐 Desenvolvimento Web responsivo e interfaces modernas (HTML5, CSS3 e JavaScript)
-- 🗄️ Modelagem de banco de dados relacional e arquitetura de sistemas
-- 🎨 Design de interfaces (UI/UX), prototipagem e identidade visual no Figma
-- 🤖 Aplicações práticas de Inteligência Artificial, Redes e ferramentas Cloud
+-  Graduação em **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec
+-  Lógica de programação, algoritmos e estruturas de dados (C++ e Portugol)
+-  Desenvolvimento Web responsivo e interfaces modernas (HTML5, CSS3 e JavaScript)
+-  Modelagem de banco de dados relacional e arquitetura de sistemas
+-  Design de interfaces (UI/UX), prototipagem e identidade visual no Figma
+-  Aplicações práticas de Inteligência Artificial, Redes e ferramentas Cloud
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -90,5 +92,5 @@
 <p align="center"><i>Obrigado por passar por aqui! Sempre evoluindo, linha por linha.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=110&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=130&section=footer" width="100%" alt="Rodapé" />
 </p>
